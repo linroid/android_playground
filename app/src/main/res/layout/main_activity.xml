@@ -10,8 +10,13 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/aidlBtn"
+        android:id="@+id/aidl"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Aidl" />
+    <Button
+        android:id="@+id/systemBars"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="System Bars" />
 </LinearLayout>
